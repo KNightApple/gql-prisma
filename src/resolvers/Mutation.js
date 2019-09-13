@@ -1,5 +1,5 @@
 import bcrypt from 'bcryptjs'
-import getUserID from "../utils/getUserID"
+import getUserID from "../utils/getUserId"
 import generateToken from "../utils/generateToken"
 
 const Mutation = {
